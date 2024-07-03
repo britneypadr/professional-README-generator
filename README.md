@@ -4,6 +4,9 @@
 ## Description
 The project is a command-line tool that simplifies the creation of professional README.md files for GitHub repositories by prompting users for key project details and dynamically generating the content.
 
+## Walkthrough Video
+[Watch the walkthrough video](https://drive.google.com/file/d/18zZvmV_zyZyLb41M7zRvXWt7KYIA0AdO/view)
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
